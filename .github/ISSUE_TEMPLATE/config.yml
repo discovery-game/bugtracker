@@ -4,7 +4,7 @@ contact_links:
   -
     about: "If you discovered a security issue and/or a hack"
     name: Email us
-    url: "mailto://contact@discovery-game.org"
+    url: "mailto:contact@discovery-game.org"
   -
     about: "Alternatively, you can use the Discovery Community Discord."
     name: Chat with us
